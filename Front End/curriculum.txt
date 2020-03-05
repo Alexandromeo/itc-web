@@ -1,39 +1,23 @@
 == Junior Front End ==
 
 1. JS dasar
-
 2. DOM
-
 3. Async
-
 4. CSS Preprocessor (kalo sempet)
-
 With: Bootstrap + JavaScript ES6
- 
-
 
 Target Junior Front End: 
 Membuat halaman web SPA ( Single Page Application ) dan dapat ambil data JSON dari server lain (CORS)
 
 
 
-
-
-
 == Senior Front End ==
-
 1. Vue dasar (Watcher, computed, methods, directive, binding, dll)
-
 2. Component
-
 3. Fetch API (CRUD)
-
 4. VueCLI, VueX, Vue Router
-
 5. Web Socket (kalo sempat)
-
 With: CSS Preprocessor/Bootstrap
 
-
-
-Target Senior Front End: Membuat web PWA ( Progressive Web Apps )
+Target Senior Front End: 
+Membuat web PWA ( Progressive Web Apps )
