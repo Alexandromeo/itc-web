@@ -1,0 +1,40 @@
+== Sistem ==
+
+
+1. Trial 
+
+Detail: dilakukan 1x pada awal periode. berupa pelatihan internal FE dan BE. Semua anggota baru wajib ikut.
+
+Tujuan: Untuk memberikan gambaran ngoding di FE dan BE. Anggota boleh pindah subdivisi hingga batas waktu pelatihan selanjutnya.
+
+
+
+
+
+2. Switch (3x dalam 1 periode). 
+
+Detail: Pindah dari BE ke FE dan sebaliknya. Tidak wajib kalo sudah merasa cocok di subdivisi.
+
+Tujuan: Untuk menolong kalian yang salah pilih
+
+Syarat: -
+
+
+
+
+
+3. Upgrade 
+
+Detail: 2x dalam 1 periode. Tidak wajib, bagi yang merasa sudah paham saja dengan materi.
+
+Tujuan: Bisa upgrade ke Senior FE. 
+
+Syarat: Tidak harus dari Junior FE, yang penting paham materi Junior FE. 
+	Bisa membuat projek yang mencakup seluruh materi Junior FE.
+
+
+Jadwal:
+1. Selasa habis ashar (15.30-17.30) -> Backend
+2. Kamis habis ashar  (15.30-17.30) -> Frontend
+
+*Anak FE boleh ikut pelatihan di BE, begitu juga sebaliknya.
