@@ -1,0 +1,10 @@
+== Backend ==
+
+1. Basic Frontend (html/css/bootstrap)
+2. Github
+3. Basic Go (logic)
+4. Advance Go (web)
+5. Database (mysql/docker opsional)
+6. MVC
+7. Framework Echo (kalo sempat)
+8. API (kalo sempat)
