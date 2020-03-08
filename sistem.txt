@@ -1,7 +1,7 @@
 == Sistem ==
 
 1. Trial 
-Detail: dilakukan 1x pada awal periode. berupa pelatihan internal FE dan BE. Semua anggota baru wajib ikut.
+Detail: dilakukan 1x pada awal periode. berupa pelatihan internal FE dan BE. Yang merasa belum paham dengan FE ataupun BE, disarankan untuk ikut.
 Tujuan: Untuk memberikan gambaran ngoding di FE dan BE. Anggota boleh pindah subdivisi hingga batas waktu pelatihan selanjutnya.
 
 
